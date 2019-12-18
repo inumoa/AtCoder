@@ -3,5 +3,9 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (AtCoder)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.6.6 (sftp://k_yamamoto@pluto48:22/usr/local/bin/python3.6)" project-jdk-type="Python SDK" />
+>>>>>>> 407d8adeae938664384a478dbf63ed0bed13c6a8
 </project>
